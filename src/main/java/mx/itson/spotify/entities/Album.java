@@ -91,7 +91,7 @@ public class Album {
     private List<Cancion> canciones; 
     private String genero; 
     
-    
+    //Subido al octoGato xdddd
     public Album deserializar (String json){
         Album album = new Album();
         try{
