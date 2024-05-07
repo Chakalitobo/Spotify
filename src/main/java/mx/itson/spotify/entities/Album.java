@@ -84,6 +84,7 @@ public class Album {
         this.genero = genero;
     }
     
+    //Hola, xd yolo chakalitobo :v (*_*)
     private String nombre;
     private Artista artista; 
     private Date fechaLanzamiento;
